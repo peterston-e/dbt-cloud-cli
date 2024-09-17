@@ -1,0 +1,17 @@
+# Virtual environment
+dbt-env/
+venv/
+env/
+.env/
+
+# Python bytecode
+__pycache__/
+*.pyc
+
+# dbt specific
+target/
+dbt_packages/
+logs/
+
+# OS specific
+.DS_Store
